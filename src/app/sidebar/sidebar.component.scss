@@ -6,10 +6,17 @@ section{
   background-color: rgb(0, 0, 0);
 }
 
+@media (max-width: 600px){
+  section{
+    display: none;
+  }
+}
+
 .titulo{
   margin-top: 1em;
 }
 .conteudo{
   flex-grow: 1;
 }
+
 
