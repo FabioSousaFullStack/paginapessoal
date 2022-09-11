@@ -1,9 +1,11 @@
   # Página Pessoal
   Este projeto foi criado com o intuito de aprimoramento e aprofundamento no da responsividade.
   
-  #Imagens
-  
-  
+  # Imagens
+   
+  ![imagemgitpaginainicial](https://user-images.githubusercontent.com/97307594/189526551-dee41730-76fe-4a3f-926e-49ef50dd1d56.PNG)
+
+ 
   # Tecnologias
   - Bootstrap
   - AngularJS
